@@ -1,5 +1,4 @@
-#Adding emp info
-#this is day 6 program !!!!!!!!!!
+#GokuVegeta
 class Employee:
     
     id=''
