@@ -1,4 +1,5 @@
 #Adding emp info
+#this is day 6 program
 class Employee:
     
     id=''
