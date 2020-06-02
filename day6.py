@@ -1,5 +1,7 @@
 #Adding emp info
-#this is day 6 program !!!!!!!!!!
+#this is day 6 program !!!!!!!!!!"
+#I have a one in generantion mind
+#"nOT CHANGING""jfgqwrtyuio"
 class Employee:
     
     id=''
